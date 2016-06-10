@@ -68,18 +68,18 @@ body {
   text-transform: uppercase;
 }
 
-.firstName {
-  padding-left: 26px;
-}
-
-.lastName {
-  padding-left: 10px;
-}
-
 @media (min-width: 48em) {
   .cover-heading {
     font-size: 120px;
     text-transform: uppercase;
+  }
+
+  .firstName {
+    padding-left: 26px;
+  }
+
+  .lastName {
+    padding-left: 10px;
   }
 }
 
