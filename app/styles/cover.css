@@ -66,16 +66,17 @@ body {
 .cover-heading {
   font-size: 46px;
   text-transform: uppercase;
+  line-height: 1;
 }
 
 @media (min-width: 48em) {
   .cover-heading {
-    font-size: 120px;
+    font-size: 92px;
     text-transform: uppercase;
   }
 
   .firstName {
-    padding-left: 26px;
+    padding-left: 22px;
   }
 
   .lastName {
